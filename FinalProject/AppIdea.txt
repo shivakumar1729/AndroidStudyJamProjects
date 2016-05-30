@@ -1,0 +1,9 @@
+*******************************************************************************Learn Vedic Tricks**********************************************************************************************
+
+Learn Vedic Tricks is an app conceptualized for helping any learning enthusiast to learn some vedic tricks to help them qucickly solve mathematical problems. Students who find regular mathematical approach overwhelming can find the methods listed in these tricks very helpful and easy. By learning these tricks and incorporating them in our work, it boosts up our solving time considerably. A perfect amalgamation of vedic tricks employed with regular approach of solving can work wonders for solving mathematical problems. These tricks can be used in regular learning approach, for competitive examinations where time is critical etc.
+
+Current version of the app teaches some sutra's (Rules) related to squares and cubes. The app is intuitive and material design make it attractive. 
+It lists some of the most used rules for squares and cubes and an illustration of each sutra along with step wise explaination of solving examples. The explaination is readable and can be followed easily. 
+
+Proper Note points are also specified for some of exception cases. Condition for the rule to be applied etc.
+	
